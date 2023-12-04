@@ -1,0 +1,10 @@
+#Request Formate
+{"title": "Updated Title", "author": "Updated Author"}
+
+
+#Response formate
+{"message": "Book updated successfully"}
+
+
+#Error response formate
+{"error": "Error message"}

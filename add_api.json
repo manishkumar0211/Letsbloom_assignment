@@ -1,0 +1,10 @@
+#Request Formate
+{"title": "New Book Title", "author": "New Author"}
+
+
+#Response Formate
+{"message": "Book added successfully"}
+
+
+#Error Response Formate
+{"error": "Error message"}
